@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Quesadilla cu pui",
+    "category": "Pranz / Cina",
+    "prep_time_minutes": null,
+    "servings": 1,
+    "ingredients": [
+      { "amount_grams": 50, "name": "Lipie libaneza Zaman" },
+      { "amount_grams": 30, "name": "Soft cheese Light - Milbona" },
+      { "amount_grams": 40, "name": "Avocado" },
+      { "amount_grams": 30, "name": "Porumb dulce - Sweetcorn - Freshona" },
+      { "amount_grams": 15, "name": "Branza Cheddar" },
+      { "amount_grams": 110, "name": "Piept de pui - Lidl" }
+    ],
+    "instructions": "Pieptul de pui se asezoneaza dupa gust si se gateste fara grasime. Se unge jumatate de lipie cu crema de branza si avocadul pisat, apoi se pune puiul taiat bucatele, porumbul, cheddarul razuit, se impatureste cu cealalta jumatate si se pune la grill.",
+    "macros": {
+      "protein": { "percentage": 35, "grams": 38.09 },
+      "carbohydrates": { "percentage": 35, "grams": 37.97 },
+      "fat": { "percentage": 30, "grams": 14.99 }
+    }
+  }
+]
