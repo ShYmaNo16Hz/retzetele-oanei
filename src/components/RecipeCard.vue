@@ -53,7 +53,11 @@
 
       <!-- Instructions -->
       <h6 class="fw-bold mb-2"><span class="me-1">📝</span> Instrucțiuni</h6>
-      <p class="text-muted small lh-lg mb-0">{{ recipe.instructions }}</p>
+      <div class="text-muted small lh-lg mb-0">
+        <pre style="font-family: unset; font-size: unset; white-space: pre-wrap" class="mb-0">
+          {{ recipe.instructions }}
+        </pre>
+      </div>
     </div>
   </div>
 </template>
