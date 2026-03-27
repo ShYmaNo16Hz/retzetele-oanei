@@ -4,7 +4,6 @@
     "name": "Quesadilla cu pui",
     "category": "Pranz / Cina",
     "prep_time_minutes": null,
-    "calories": 378,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 50, "name": "Lipie libaneza Zaman" },
@@ -27,7 +26,6 @@
     "name": "Bol Big Mac",
     "category": "Pranz / Cina",
     "prep_time_minutes": 0,
-    "calories": 487,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 200, "name": "Cartofi albi" },
@@ -39,9 +37,9 @@
     ],
     "instructions": "Se cumpara carnea (capac de vitel sau rasol alb sau muschiulet sau vrabioara manzat) de la macelarie, si se toaca (ii puteti ruga pe cei de la macelarie sa o faca). Se asezoneaza cu sare, piper si orice mix de condimente preferati. Se trage la tigaie in 3 fasuri de ulei, pana se gateste. Dupa ce oprim focul se adauga carnea peste cartofii gatiti in prealabil (se stropesc cu 2-3 fasuri de ulei, se asezoneaza si se 'prajesc' la cuptor/airfryer), branza cheddar, sosul pentru burger si castravetii murati feliati.",
     "macros": {
-      "protein": { "percentage": 33, "grams": 39.5 },
-      "carbohydrates": { "percentage": 38, "grams": 45.8 },
-      "fat": { "percentage": 29, "grams": 15.6 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -49,7 +47,6 @@
     "name": "Paste cu pesto",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 411,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 70, "name": "Penne rigate integrale Barilla" },
@@ -61,7 +58,7 @@
     "macros": {
       "protein": { "percentage": 15, "grams": 15.39 },
       "carbohydrates": { "percentage": 48, "grams": 50.29 },
-      "fat": { "percentage": 37, "grams": 16.8 }
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -69,7 +66,6 @@
     "name": "Somon cu mix de orez si legume",
     "category": "Pranz / Cina",
     "prep_time_minutes": 0,
-    "calories": 336,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 120, "name": "File somon Fresh Fish Lidl" },
@@ -87,7 +83,6 @@
     "name": "Salata cu mozzarella",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 332,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 50, "name": "Salata Prestigio - Chef Select (Lidl)" },
@@ -111,12 +106,13 @@
     "name": "Piure de cartofi",
     "category": "Garnitura",
     "prep_time_minutes": 5,
-    "calories": 213,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 200, "name": "Cartofi albi" },
       { "amount_grams": 5, "name": "Unt" },
-      { "amount_grams": 100, "name": "Lapte Pilos 1.5%" }
+      { "amount_grams": 100, "name": "Lapte Pilos 1.5%" },
+      { "amount_grams": 140, "name": "Pulpe superioare de pui dezosate fara piele Lidl" },
+      { "amount_grams": 140, "name": "Castraveti murati" }
     ],
     "instructions": "Se fierb cartofii, de adauga untul si apoi se completeaza cu lapte, atat cat e necesar (in fct de soi, poate sa fie nevoie de mai putin lapte decat cantitatea trecuta in reteta) si se condimenteaza dupa gust.",
     "macros": {
@@ -130,7 +126,6 @@
     "name": "Somon cu broccoli",
     "category": "Pranz / Cina",
     "prep_time_minutes": 2,
-    "calories": 424,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 150, "name": "File somon Fresh Fish Lidl" },
@@ -149,7 +144,6 @@
     "name": "Somon cu broccoli ~ Dressing de iaurt cu mustar",
     "category": "Dressing",
     "prep_time_minutes": 1,
-    "calories": 37,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 40, "name": "Zuzu stors 2%" },
@@ -167,7 +161,6 @@
     "name": "Pulpe de pui cu cartofi la cuptor",
     "category": "Pranz / Cina",
     "prep_time_minutes": 0,
-    "calories": 473,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 170, "name": "Pulpe superioare de pui dezosate, fara piele Lidl" },
@@ -186,7 +179,6 @@
     "name": "Salata de ton cu maioneza",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 435,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 150, "name": "Ton in suc propriu Nixe" },
@@ -210,7 +202,6 @@
     "name": "Poke bowl cu pui",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 527,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 150, "name": "Piept de pui - Lidl" },
@@ -224,9 +215,9 @@
     ],
     "instructions": "Se taie puiul bucati si se trage la tigaie cu usturoi, soya, teriyaki, sare si piper. Orezul se pune la fiert. Se amesteca maioneza cu sosul siracha. Intr-un bol se pune orezul, puiul, avocado-ul taiat bucati si porumbul. Deasupra se pune sosul.",
     "macros": {
-      "protein": { "percentage": 34, "grams": 44.3 },
-      "carbohydrates": { "percentage": 43, "grams": 56.1 },
-      "fat": { "percentage": 23, "grams": 13.2 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -234,7 +225,6 @@
     "name": "Paste bolognese",
     "category": "Pranz / Cina",
     "prep_time_minutes": null,
-    "calories": 468,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 60, "name": "Paste fainoase integrale penne rigate Barilla" },
@@ -256,7 +246,6 @@
     "name": "Salata mediteraneana (fara dressing)",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 312,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 200, "name": "Rosii" },
@@ -271,9 +260,9 @@
     ],
     "instructions": "Se taie marunt toate ingredientele, se toarna peste ele un dressing (reteta separata) si se amesteca f bine.",
     "macros": {
-      "protein": { "percentage": 12, "grams": 9.2 },
-      "carbohydrates": { "percentage": 47, "grams": 36.5 },
-      "fat": { "percentage": 41, "grams": 14.1 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -281,7 +270,6 @@
     "name": "Salata mediteraneana - Dressing cu tahini si mustar",
     "category": "Dressing",
     "prep_time_minutes": 0,
-    "calories": 77,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 10, "name": "Tahini - Lima" },
@@ -301,7 +289,6 @@
     "name": "Risotto cu ciuperci si parmezan",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 421,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 60, "name": "Orez alb negatit" },
@@ -322,7 +309,6 @@
     "name": "Salata de cartofi cu pesto si branza cremoasa",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 468,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 250, "name": "Cartofi albi" },
@@ -337,7 +323,7 @@
     "macros": {
       "protein": { "percentage": 12, "grams": 11.32 },
       "carbohydrates": { "percentage": 49, "grams": 48.4 },
-      "fat": { "percentage": 39, "grams": 40.8 }
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -345,7 +331,6 @@
     "name": "Salata de paste",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 436,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 50, "name": "Salata Prestigio - Mix de Salate" },
@@ -369,12 +354,11 @@
     "name": "Biban cu cartofi",
     "category": "Pranz / Cina",
     "prep_time_minutes": 10,
-    "calories": 352,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 180, "name": "Biban de mare crud" },
       { "amount_grams": 200, "name": "Cartofi albi" },
-      { "amount_grams": 5, "name": "Ulei de masline" }
+      { "amount_grams": "1 lingurita (5", "name": "Ulei de masline" }
     ],
     "instructions": "Pestele se asezoneaza dupa gust si se face pe gratar sau la cuptor (25 de minute la 200 grade, in cuptorul preincalzit). Cartofii se pun la cuptor si se stropesc cu maxim o lingurita de ulei de masline. Un recipient de tip spray te-ar ajuta.",
     "macros": {
@@ -388,7 +372,6 @@
     "name": "Burger de vita",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 498,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 140, "name": "Pulpa de vitel" },
@@ -399,9 +382,9 @@
     ],
     "instructions": "Se amesteca carnea tocata (poate fi capac de vitel, rasol alb sau muschi foarte slab, si ti-o pot toca cei de la macelarie) cu o lingurita de sos Worchester si cu putina sare. Se formeaza chifteaua si se pune in tigaia bine incinsa timp de 5 minute pe fiecare parte. Cand e gata carnea se pune felia de cheddar peste, si langa puneti chifla taiata in 2, pana se prajeste foarte putin. In maxim 1 minut stingeti focul. Ungeti felia de jos cu sosul Hellmans, puneti carnea cu cheddarul topit si puteti pune rosii sau orice tip de verdeata.",
     "macros": {
-      "protein": { "percentage": 37, "grams": 46.2 },
-      "carbohydrates": { "percentage": 28, "grams": 34.8 },
-      "fat": { "percentage": 35, "grams": 19.4 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -409,13 +392,12 @@
     "name": "Piept de pui la gratar cu ciuperci si cartofi",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 400,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 170, "name": "Piept de pui - Lidl" },
       { "amount_grams": 200, "name": "Cartofi albi" },
       { "amount_grams": 150, "name": "Ciuperci champignon" },
-      { "amount_grams": 5, "name": "Ulei de masline" }
+      { "amount_grams": "1 lingurita (5", "name": "Ulei de masline" }
     ],
     "instructions": "Cartofii se taie in stil wedges sau pai, se stropesc cu o lingurita de ulei (preferabil din recipient de tip spray), se asezoneaza dupa gust si se pun la cuptor. Pieptul de pui si ciupercile se fac la gratar, sau se pot pune la cuptor odata cu cartofii.",
     "macros": {
@@ -429,7 +411,6 @@
     "name": "Paste cu pui si dovlecel",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 440,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 40, "name": "Penne rigate integrale Barilla" },
@@ -451,7 +432,6 @@
     "name": "Salata Caesar",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 288,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 70, "name": "Salata iceberg" },
@@ -470,10 +450,9 @@
     "name": "Salata Caesar - Dressing",
     "category": "Sosuri",
     "prep_time_minutes": 2,
-    "calories": 122,
     "servings": 1,
     "ingredients": [
-      { "amount_grams": 30, "name": "Maioneza Light - Hellman's" },
+      { "amount_grams": 30, "name": "Maioneză Light - Hellman’s" },
       { "amount_grams": 5, "name": "Mustar Dijon Kamis" },
       { "amount_grams": 5, "name": "Usturoi" },
       { "amount_grams": 10, "name": "Zeama de lamaie" },
@@ -491,7 +470,6 @@
     "name": "Wrap mediteranean cu prosciutto cotto",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 393,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 52, "name": "Lipie libaneza Zaman" },
@@ -515,7 +493,6 @@
     "name": "Shaorma homemade",
     "category": "Pranz / Cina",
     "prep_time_minutes": 0,
-    "calories": 438,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 60, "name": "Lipie libaneza graham Lidl" },
@@ -526,11 +503,11 @@
       { "amount_grams": 50, "name": "Castraveti" },
       { "amount_grams": 5, "name": "Usturoi" }
     ],
-    "instructions": "1. Taie cartofii pai si coace-i fara ulei. 2. Taie puiul fasii, asezoneaza-l si gateste-l pe gratar. 3. Rade castravetele, stoarce-l de lichid si amesteca-l cu iaurtul si usturoiul. 4. Unge lipia cu sosul obtinut. 5. Adauga puiul, cartofii si castravetii murati. 6. Ruleaza si serveste.",
+    "instructions": "  1. Taie cartofii pai si coace-i fara ulei. 2. Taie puiul fasii, asezoneaza-l si gateste-l pe gratar. 3. Rade castravetele, stoarce-l de lichid si amesteca-l cu iaurtul si usturoiul. 4. Unge lipia cu sosul obtinut. 5. Adauga puiul, cartofii si castravetii murati. 6. Ruleaza si serveste.",
     "macros": {
-      "protein": { "percentage": 30, "grams": 32.8 },
-      "carbohydrates": { "percentage": 57, "grams": 62.4 },
-      "fat": { "percentage": 13, "grams": 6.3 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -538,7 +515,6 @@
     "name": "One pot pesto chicken",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 390,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 50, "name": "Orez Basmati negatit" },
@@ -548,11 +524,11 @@
       { "amount_grams": 5, "name": "Parmezan" },
       { "amount_grams": 20, "name": "Branza feta" }
     ],
-    "instructions": "1. Pune orezul intr-un vas termorezistent. 2. Adauga apa sau supa clara, in cantitate dubla fata de orez. 3. Adauga puiul taiat cuburi, ciupercile si restul ingredientelor. 4. Sareaza, condimenteaza si amesteca usor. 5. Coace pana cand lichidul este complet absorbit.",
+    "instructions": " \n* 1. Pune orezul intr-un vas termorezistent.\n* 2. Adauga apa sau supa clara, in cantitate dubla fata de orez.\n* 3. Adauga puiul taiat cuburi, ciupercile si restul ingredientelor.\n* 4. Sareaza, condimenteaza si amesteca usor.\n* 5. Coace pana cand lichidul este complet absorbit.",
     "macros": {
-      "protein": { "percentage": 38, "grams": 38.5 },
-      "carbohydrates": { "percentage": 42, "grams": 42.7 },
-      "fat": { "percentage": 20, "grams": 8.9 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -560,7 +536,6 @@
     "name": "Paste cu ciuperci si parmezan",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 422,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 80, "name": "Paste fainoase integrale penne rigate Barilla" },
@@ -568,7 +543,7 @@
       { "amount_grams": 150, "name": "Ciuperci champignon" },
       { "amount_grams": 10, "name": "Parmezan" }
     ],
-    "instructions": "1. Fierbe pastele conform instructiunilor. 2. Trage ciupercile la tigaie fara grasime si asezoneaza-le. 3. Adauga sosul de rosii si pastele fierte. 4. Amesteca si serveste cu parmezan deasupra.",
+    "instructions": " \n* 1. Fierbe pastele conform instructiunilor.\n* 2. Trage ciupercile la tigaie fara grasime si asezoneaza-le.\n* 3. Adauga sosul de rosii si pastele fierte.\n* 4. Amesteca si serveste cu parmezan deasupra.",
     "macros": {
       "protein": { "percentage": 18, "grams": 18.95 },
       "carbohydrates": { "percentage": 60, "grams": 63.17 },
@@ -580,7 +555,6 @@
     "name": "Pui cu lamaie",
     "category": "Pranz / Cina",
     "prep_time_minutes": null,
-    "calories": 632,
     "servings": null,
     "ingredients": [
       { "amount_grams": 300, "name": "Pulpe superioare de pui dezosate, fara piele Lidl" },
@@ -593,9 +567,9 @@
     ],
     "instructions": "Se face o marinada din zeama de la o lamaie, 3 catei de usturoi zdrobit, 1/2 lingurita mustar, 2 lingurite ulei, sare, piper si oregano (sau orice alte condimente sau mix de condimente preferi). 2 linguri din aceasta marinada se pun deoparte. In restul de marinada se pune puiul la macerat peste noapte, sau cu cel putin o ora inainte de gatire. Taiem cartofii cubulete si ii punem la fiert, pana intra furculita in ei (daca vrem sa sarim peste acest pas va trebui sa punem la cuptor mai intai cartofii, si dupa 10 min sa adaugam in tava si carnea cu broccoli). Cand sunt gata ii scoatem din apa si punem peste ei si peste broccoliul decongelat (dc folositi proaspat, el trebuie prefiert) cele 2 linguri de marinada ramasa. Punem in tava carnea si legumele si se pune totul la cuptor aprox 20-25' la 200°.",
     "macros": {
-      "protein": { "percentage": 44, "grams": 69.5 },
-      "carbohydrates": { "percentage": 38, "grams": 59.8 },
-      "fat": { "percentage": 18, "grams": 12.8 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -603,7 +577,6 @@
     "name": "Greek chicken bowl",
     "category": "Pranz / Cina",
     "prep_time_minutes": 0,
-    "calories": 390,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 170, "name": "Piept de pui - Lidl" },
@@ -616,11 +589,11 @@
       { "amount_grams": 40, "name": "Castraveti" },
       { "amount_grams": 30, "name": "Ceapa rosie" }
     ],
-    "instructions": "1. Asezoneaza puiul cu sare, piper, oregano si boia. 2. Gateste puiul pe gratar sau tigaie. 3. Taie legumele si pune-le intr-un bol. 4. Amesteca iaurtul cu usturoiul si castravetele ras pentru sos. 5. Adauga puiul si sosul peste legume inainte de servire.",
+    "instructions": " \n* 1. Asezoneaza puiul cu sare, piper, oregano si boia.\n* 2. Gateste puiul pe gratar sau tigaie.\n* 3. Taie legumele si pune-le intr-un bol.\n* 4. Amesteca iaurtul cu usturoiul si castravetele ras pentru sos.\n* 5. Adauga puiul si sosul peste legume inainte de servire.",
     "macros": {
-      "protein": { "percentage": 46, "grams": 44.8 },
-      "carbohydrates": { "percentage": 28, "grams": 27.2 },
-      "fat": { "percentage": 26, "grams": 11.2 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -628,7 +601,6 @@
     "name": "Wrap cu humus, linte si castraveti murati",
     "category": "Pranz / Cina",
     "prep_time_minutes": 3,
-    "calories": 399,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 62, "name": "Lipie libaneza graham Lidl" },
@@ -636,11 +608,11 @@
       { "amount_grams": 100, "name": "Linte la conserva - Lentils in brine - Freshona (Lidl)" },
       { "amount_grams": 100, "name": "Castraveti murati" }
     ],
-    "instructions": "1. Unge lipia cu hummus. 2. Adauga lintea si castravetii murati. 3. Ruleaza si serveste.",
+    "instructions": " \n* 1. Unge lipia cu hummus.\n* 2. Adauga lintea si castravetii murati.\n* 3. Ruleaza si serveste.",
     "macros": {
       "protein": { "percentage": 18, "grams": 17.95 },
       "carbohydrates": { "percentage": 64, "grams": 64.47 },
-      "fat": { "percentage": 18, "grams": 7.9 }
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -648,20 +620,19 @@
     "name": "Muschiulet de porc cu cous cous",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 446,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 40, "name": "Cous-cous nepreparat" },
       { "amount_grams": 5, "name": "Unt" },
       { "amount_grams": 100, "name": "Ciuperci champignon" },
-      { "amount_grams": 30, "name": "Branza cremoasa President" },
+      { "amount_grams": 30, "name": "Brânză cremoasă President" },
       { "amount_grams": 150, "name": "Carne porc muschi file crud" }
     ],
-    "instructions": "1. Fierbe cous cous-ul conform instructiunilor. 2. Trage ciupercile la tigaie fara grasime si asezoneaza dupa gust. 3. Adauga cous cous-ul si branza cremoasa. 4. Gateste muschiuletul separat, fara grasime, asezonandu-l dupa gust. 5. Serveste impreuna.",
+    "instructions": " \n* 1. Fierbe cous cous-ul conform instructiunilor.\n* 2. Trage ciupercile la tigaie fara grasime si asezoneaza dupa gust.\n* 3. Adauga cous cous-ul si branza cremoasa.\n* 4. Gateste muschiuletul separat, fara grasime, asezonandu-l dupa gust.\n* 5. Serveste impreuna.",
     "macros": {
-      "protein": { "percentage": 40, "grams": 44.5 },
-      "carbohydrates": { "percentage": 30, "grams": 33.2 },
-      "fat": { "percentage": 30, "grams": 14.8 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -669,7 +640,6 @@
     "name": "Pui cu legume la cuptor",
     "category": "Pranz / Cina",
     "prep_time_minutes": 5,
-    "calories": 498,
     "servings": 2,
     "ingredients": [
       { "amount_grams": 200, "name": "Cartofi albi" },
@@ -679,11 +649,11 @@
       { "amount_grams": 10, "name": "Ulei de masline" },
       { "amount_grams": 300, "name": "Pulpe superioare de pui dezosate, fara piele Lidl" }
     ],
-    "instructions": "1. Taie legumele cuburi. 2. Aseaza-le in tava cu carnea. 3. Stropeste cu ulei si asezoneaza. 4. Coace pana se gatesc complet.",
+    "instructions": " \n* 1. Taie legumele cuburi.\n* 2. Aseaza-le in tava cu carnea.\n* 3. Stropeste cu ulei si asezoneaza.\n* 4. Coace pana se gatesc complet.",
     "macros": {
-      "protein": { "percentage": 38, "grams": 47.4 },
-      "carbohydrates": { "percentage": 40, "grams": 49.8 },
-      "fat": { "percentage": 22, "grams": 12.2 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -691,20 +661,19 @@
     "name": "Wrap cu ton, porumb si crema de branza",
     "category": "Pranz / Cina",
     "prep_time_minutes": 0,
-    "calories": 372,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 60, "name": "Lipie libaneza Zaman (Lidl)" },
       { "amount_grams": 40, "name": "Soft cheese Light - Milbona" },
-      { "amount_grams": 80, "name": "Ton in suc propriu Nixe" },
+      { "amount_grams": 80, "name": "Ton în suc propriu Nixe" },
       { "amount_grams": 35, "name": "Porumb dulce D'aucy" },
       { "amount_grams": 60, "name": "Castraveti murati" }
     ],
-    "instructions": "1. Stoarce bine tonul de lichid si amesteca-l cu crema de branza. 2. Adauga porumbul si castravetii murati tocati. 3. Intinde compozitia pe lipie si ruleaza.",
+    "instructions": " \n* 1. Stoarce bine tonul de lichid si amesteca-l cu crema de branza.\n* 2. Adauga porumbul si castravetii murati tocati.\n* 3. Intinde compozitia pe lipie si ruleaza.",
     "macros": {
       "protein": { "percentage": 35, "grams": 32.47 },
       "carbohydrates": { "percentage": 49, "grams": 45.26 },
-      "fat": { "percentage": 16, "grams": 6.6 }
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -712,7 +681,6 @@
     "name": "Paste cu vita",
     "category": "Pranz / Cina",
     "prep_time_minutes": null,
-    "calories": 748,
     "servings": null,
     "ingredients": [
       { "amount_grams": 120, "name": "Paste fainoase integrale penne rigate Barilla" },
@@ -723,11 +691,11 @@
       { "amount_grams": 15, "name": "Parmezan" },
       { "amount_grams": 5, "name": "Ulei de masline" }
     ],
-    "instructions": "1. Fierbi pastele penne conform instructiunilor de pe ambalaj, pana devin al dente. Le scurgi si pastrezi o cescuta din apa de la paste. 2. Intr-o tigaie mare, la foc mediu, incingi uleiul de masline. Adaugi ceapa tocata si usturoiul si le calesti aproximativ 5 minute, pana devin usor aurii. 3. Adaugi carnea tocata de vita in tigaie. O maruntesti cu spatula si o gatesti pana devine rumena, cam 7 minute. Condimentezi cu sare, piper si condimente italiene. 4. Dai focul mai mic si torni smantana lichida. Amesteci bine. Adaugi treptat apa de la paste, pana ajungi la consistenta dorita a sosului. Incorporezi parmezanul ras si amesteci pana se topeste. 5. Pui pastele fierte in tigaie si le amesteci usor cu sosul, pana sunt bine acoperite. Servesti fierbinte. Optional, poti adauga patrunjel proaspat.",
+    "instructions": " \n* 1. Fierbi pastele penne conform instructiunilor de pe ambalaj, pana devin al dente. Le scurgi si pastrezi o cescuta din apa de la paste.\n* 2. Intr-o tigaie mare, la foc mediu, incingi uleiul de masline. Adaugi ceapa tocata si usturoiul si le calesti aproximativ 5 minute, pana devin usor aurii.\n* 3. Adaugi carnea tocata de vita in tigaie. O maruntesti cu spatula si o gatesti pana devine rumena, cam 7 minute. Condimentezi cu sare, piper si condimente italiene.\n* 4. Dai focul mai mic si torni smantana lichida. Amesteci bine. Adaugi treptat apa de la paste, pana ajungi la consistenta dorita a sosului. Incorporezi parmezanul ras si amesteci pana se topeste.\n* 5. Pui pastele fierte in tigaie si le amesteci usor cu sosul, pana sunt bine acoperite. Servesti fierbinte. Optional, poti adauga patrunjel proaspat.",
     "macros": {
-      "protein": { "percentage": 31, "grams": 57.8 },
-      "carbohydrates": { "percentage": 38, "grams": 71.2 },
-      "fat": { "percentage": 31, "grams": 25.8 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   },
   {
@@ -735,18 +703,17 @@
     "name": "Somon in sos de soia cu mix de legume si orez",
     "category": "Pranz / Cina",
     "prep_time_minutes": 0,
-    "calories": 318,
     "servings": 1,
     "ingredients": [
       { "amount_grams": 120, "name": "File somon Fresh Fish Lidl" },
       { "amount_grams": 150, "name": "Amestec de orez cu legume - Freshona" },
       { "amount_grams": 30, "name": "Sos de soia (less salt), KIKKOMAN" }
     ],
-    "instructions": "1. Indeparteaza pielita somonului si taie fileul bucati. 2. Tavaleste somonul in sos de soia. 3. Gateste-l la cuptor sau airfryer pana se rumeneste usor. 4. Trage legumele la tigaie si asezoneaza dupa gust. 5. Serveste somonul alaturi de orezul cu legume.",
+    "instructions": " \n* 1. Indeparteaza pielita somonului si taie fileul bucati.\n* 2. Tavaleste somonul in sos de soia.\n* 3. Gateste-l la cuptor sau airfryer pana se rumeneste usor.\n* 4. Trage legumele la tigaie si asezoneaza dupa gust.\n* 5. Serveste somonul alaturi de orezul cu legume.",
     "macros": {
-      "protein": { "percentage": 36, "grams": 28.5 },
-      "carbohydrates": { "percentage": 31, "grams": 24.8 },
-      "fat": { "percentage": 33, "grams": 11.6 }
+      "protein": { "percentage": null, "grams": null },
+      "carbohydrates": { "percentage": null, "grams": null },
+      "fat": { "percentage": null, "grams": null }
     }
   }
 ]

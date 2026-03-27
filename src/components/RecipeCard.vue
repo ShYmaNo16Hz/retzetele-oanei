@@ -5,11 +5,16 @@
       <h5 class="card-title mb-1 fw-bold">
         {{ recipe.name }}
       </h5>
-      <div class="row align-items-center">
+      <div class="row align-items-center g-1">
         <div class="col">
           <div class="badge bg-white text-success rounded-pill fs-7">
             🍽️ {{ recipe.servings }} porție
           </div>
+        </div>
+        <div class="col-auto">
+          <span class="badge bg-black bg-opacity-50 rounded-pill rounded-pill">
+            {{ recipe.calories }} kcal
+          </span>
         </div>
         <div class="col-auto">
           <span class="badge bg-black bg-opacity-50 rounded-pill rounded-pill">
@@ -63,8 +68,6 @@
 </template>
 
 <script setup>
-import { defineProps } from 'vue'
-
 const props = defineProps({
   recipe: {
     type: Object,
