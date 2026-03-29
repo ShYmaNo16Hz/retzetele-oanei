@@ -748,5 +748,27 @@
       "carbohydrates": { "percentage": 31, "grams": 24.8 },
       "fat": { "percentage": 33, "grams": 11.6 }
     }
+  },
+  {
+    "id": 37,
+    "name": "Overnight oats cu fructe de padure",
+    "category": "Mic dejun",
+    "prep_time_minutes": 5,
+    "calories": 344,
+    "servings": 1,
+    "ingredients": [
+      { "amount_grams": 30, "name": "Fulgi de ovaz" },
+      { "amount_grams": 7, "name": "Seminte de chia" },
+      { "amount_grams": 75, "name": "Zuzu stors 2%" },
+      { "amount_grams": 100, "name": "Lapte Pilos 1.5%" },
+      { "amount_grams": 13, "name": "Miere" },
+      { "amount_grams": 150, "name": "Fructe de padure congelate" }
+    ],
+    "instructions": "Se adauga toate ingredientele intr-un borcan, cu o seara inainte, avand grija sa amestecam foarte bine. Se lasa peste noapte la frigider si se serveste a doua zi dimineata. Se pot folosi orice fel de fructe in locul celor de padure.",
+    "macros": {
+      "protein": { "percentage": 16, "grams": 13.81 },
+      "carbohydrates": { "percentage": 64, "grams": 54.68 },
+      "fat": { "percentage": 20, "grams": 7.24 }
+    }
   }
 ]
